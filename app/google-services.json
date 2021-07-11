@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885893669506",
+    "project_id": "newdatabase-c4169",
+    "storage_bucket": "newdatabase-c4169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885893669506:android:f17b5ae55adc50318f4a9b",
+        "android_client_info": {
+          "package_name": "org.codeway.newdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885893669506-klo0ivrh6rp43m7oae9uoktp5lcuoddg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIN8OML5TMVVddp3GNMR7Z92eEzcM6Cuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885893669506-klo0ivrh6rp43m7oae9uoktp5lcuoddg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
